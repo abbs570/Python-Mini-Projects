@@ -43,3 +43,5 @@ else:
     
 print("You got " + str(score) + " questions correct!")
 print("You got a " + str((score/4) * 100) + "%.")
+
+input("Press Enter to Exit")
